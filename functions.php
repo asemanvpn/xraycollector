@@ -241,7 +241,7 @@ function configParse($input)
             "params" => $params,
             "hash" => isset($parsedUrl["fragment"])
                 ? $parsedUrl["fragment"]
-                : "TVC" . getRandomName(),
+                : "SKY" . getRandomName(),
         ];
 
         if ($configType === "tuic") {
@@ -261,7 +261,7 @@ function configParse($input)
         );
         $server_address = $url["host"];
         $server_port = $url["port"];
-        $name = isset($url["fragment"]) ? urldecode($url["fragment"]) : "TVC" . getRandomName();
+        $name = isset($url["fragment"]) ? urldecode($url["fragment"]) : "SKY" . getRandomName();
         $server = [
             "encryption_method" => $encryption_method,
             "password" => $password,
