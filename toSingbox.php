@@ -370,7 +370,7 @@ $directoryOfFiles = [
 ];
 
 foreach ($directoryOfFiles as $directory) {
-    $configsName = "TVC | " . explode("/", $directory)[3];
+    $configsName = "AsemanVPN | " . explode("/", $directory)[3];
     $configsData = file_get_contents($directory);
     $convertionResult = processConvertion($configsData, $configsName);
     file_put_contents("subscriptions/singbox/" . explode("/", $directory)[3] . ".json", $convertionResult);
