@@ -49,7 +49,7 @@ vless://01842c9c-d03c-4765-a950-5da4b096ee74@104.17.214.22:443?path=/Telegram-@p
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🇩🇪DE | 🔴 | vless | @VmessProtocol | 1
 vless://c23376ec-ae2c-484a-8e04-fd767bb600b3@151.101.61.229:80?encryption=none&security=none&type=xhttp&host=vmessprotocol-channel.global.ssl.fastly.net&path=/download/main&mode=auto#🇬🇧GB | 🔴 | vless | @VmessProtocol | 2
 vless://143856fd-c47c-4901-b86b-987bbedd20c4@66.42.114.233:443?type=xhttp&path=/tyu&host=&mode=stream-one&security=none#🇺🇸US | 🔴 | vless | @DailyV2RY | 138
-vless://c2dacd05-60d2-4e92-afa6-5673f5bb594a@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=vrosxiyw.server24730.ir&type=ws&alpn=http/1.1&host=vrosxiyw.server24730.ir&path=/wss#🇺🇸US | 🔴 | vless | @DailyV2RY | 139
+vless://c2dacd05-60d2-4e92-afa6-5673f5bb594a@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=vrosxiyw.server24730.ir&type=ws&alpn=http/1.1&host=vrosxiyw.server24730.ir&path=/wss#🇨🇦CA | 🔴 | vless | @DailyV2RY | 139
 vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.114.204:17416?mode=gun&security=reality&encryption=none&pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&fp=chrome&spx=/&type=grpc&sni=sourceforge.net&sid=b3#🇩🇪DE | 🔴 | vless | @lrnbymaa | 0
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 2
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 3

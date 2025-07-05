@@ -151,7 +151,7 @@
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
                 "🇬🇧GB | 🔴 | vless | @VmessProtocol | 2",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 138",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 139",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 139",
                 "🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 2",
                 "🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 3",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
@@ -222,7 +222,7 @@
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
                 "🇬🇧GB | 🔴 | vless | @VmessProtocol | 2",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 138",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 139",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 139",
                 "🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 2",
                 "🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 3",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
@@ -1220,7 +1220,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 139",
+            "tag": "🇨🇦CA | 🔴 | vless | @DailyV2RY | 139",
             "type": "vless",
             "server": "cash.ns.cloudflare.com",
             "server_port": 443,

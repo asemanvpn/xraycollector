@@ -157,7 +157,7 @@ proxies:
   - {"name":"🇩🇪DE | 🔴 | vless | @VmessProtocol | 1","type":"vless","server":"91.99.207.47","port":443,"udp":false,"uuid":"2eaef053-5fd6-4def-b234-d760690355ff","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇬🇧GB | 🔴 | vless | @VmessProtocol | 2","type":"vless","server":"151.101.61.229","port":80,"udp":false,"uuid":"c23376ec-ae2c-484a-8e04-fd767bb600b3","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 138","type":"vless","server":"66.42.114.233","port":443,"udp":false,"uuid":"143856fd-c47c-4901-b86b-987bbedd20c4","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 139","type":"vless","server":"cash.ns.cloudflare.com","port":443,"udp":false,"uuid":"c2dacd05-60d2-4e92-afa6-5673f5bb594a","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"vrosxiyw.server24730.ir","ws-opts":{"path":"/wss","headers":{"host":"vrosxiyw.server24730.ir"}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @DailyV2RY | 139","type":"vless","server":"cash.ns.cloudflare.com","port":443,"udp":false,"uuid":"c2dacd05-60d2-4e92-afa6-5673f5bb594a","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"vrosxiyw.server24730.ir","ws-opts":{"path":"/wss","headers":{"host":"vrosxiyw.server24730.ir"}}}
   - {"name":"🇩🇪DE | 🔴 | vless | @lrnbymaa | 0","type":"vless","server":"209.38.114.204","port":17416,"udp":true,"uuid":"2706427a-bf92-43b5-a001-37e31e4c4d56","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"sourceforge.net","reality-opts":{"public-key":"X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik","short-id":"b3"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 2","type":"vless","server":"91.99.171.12","port":443,"udp":false,"uuid":"36ee3f5a-3816-4c03-a324-47531167e53b","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 3","type":"vless","server":"91.99.182.117","port":443,"udp":false,"uuid":"36ee3f5a-3816-4c03-a324-47531167e53b","tls":false,"network":"tcp","client-fingerprint":"chrome"}
@@ -219,7 +219,7 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @VmessProtocol | 1'
       - '🇬🇧GB | 🔴 | vless | @VmessProtocol | 2'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 138'
-      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 139'
+      - '🇨🇦CA | 🔴 | vless | @DailyV2RY | 139'
       - '🇩🇪DE | 🔴 | vless | @lrnbymaa | 0'
       - '🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 2'
       - '🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 3'
@@ -281,7 +281,7 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @VmessProtocol | 1'
       - '🇬🇧GB | 🔴 | vless | @VmessProtocol | 2'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 138'
-      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 139'
+      - '🇨🇦CA | 🔴 | vless | @DailyV2RY | 139'
       - '🇩🇪DE | 🔴 | vless | @lrnbymaa | 0'
       - '🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 2'
       - '🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 3'
@@ -342,7 +342,7 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @VmessProtocol | 1'
       - '🇬🇧GB | 🔴 | vless | @VmessProtocol | 2'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 138'
-      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 139'
+      - '🇨🇦CA | 🔴 | vless | @DailyV2RY | 139'
       - '🇩🇪DE | 🔴 | vless | @lrnbymaa | 0'
       - '🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 2'
       - '🇩🇪DE | 🔴 | vless | @v2ray_vpn_ir | 3'
