@@ -354,7 +354,6 @@ function processConvertion ($base64ConfigsList, $configsName = "Created By YeBeK
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/aseemanvpnbot
 //profile-web-page-url: https://github.com/asemanvpn/xraycollector
-
 ";
     return $headerText . json_encode($structure, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
 }
