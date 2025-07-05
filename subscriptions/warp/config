@@ -1,8 +1,8 @@
-#profile-title: base64:VFZDIHwgV0FSUA==
+#profile-title: base64:8J+Mpe+4j0FzZW1hblZQTiB8IFdBUlA=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://t.me/v2raycollector
-#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
+#support-url: https://t.me/aseemanvpnbot
+#profile-web-page-url: https://github.com/asemanvpn/xraycollector
 
-warp://188.114.98.181:7152?ifp=5-10#WiW-🟢&&detour=warp://162.159.195.81:7152?ifp=5-10#WARP-🟢
-warp://162.159.195.81:7152?ifp=5-10#WiW-🔵&&detour=warp://188.114.98.181:7152?ifp=5-10#WARP-🔵
+warp://188.114.97.245:880?ifp=5-10#WiW-🟢&&detour=warp://188.114.99.164:880?ifp=5-10#WARP-🟢
+warp://188.114.99.164:880?ifp=5-10#WiW-🔵&&detour=warp://188.114.97.245:880?ifp=5-10#WARP-🔵

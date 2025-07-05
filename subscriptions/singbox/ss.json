@@ -1,9 +1,8 @@
-//profile-title: base64:QXNlbWFuVlBOIHwgc3M=
+//profile-title: base64:8J+Mpe+4j0FzZW1hblZQTiB8IHNz
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/V2rayCollector
-//profile-web-page-url: https://t.me/V2rayCollectorBot
-
+//support-url: https://t.me/aseemanvpnbot
+//profile-web-page-url: https://github.com/asemanvpn/xraycollector
 {
     "log": {
         "disabled": false,
