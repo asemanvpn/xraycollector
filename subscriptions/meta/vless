@@ -362,7 +362,6 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @flyv2ray | 1","type":"vless","server":"e.mosic7.info","port":80,"udp":false,"uuid":"7c9e3c1d-a360-4429-9189-e45a98de7fde","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=443","headers":{"host":"my.ski1plag.ir"}}}
   - {"name":"🇮🇷IR | 🔴 | vless | @flyv2ray | 2","type":"vless","server":"185.133.125.6","port":19151,"udp":false,"uuid":"84e7d7ea-fbb8-4a62-b3c6-a22165a21bee","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇳🇱NL | 🔴 | vless | @flyv2ray | 4","type":"vless","server":"188.227.84.154","port":8443,"udp":false,"uuid":"19bd6c93-953d-4b01-953c-a3cf2238eaf8","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🚩CF | 🔴 | vless | @flyv2ray | 5","type":"vless","server":"104.16.53.11","port":8443,"udp":false,"uuid":"7c9e3c1d-a360-4429-9189-e45a98de7fde","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"my.ski1plag.ir","ws-opts":{"path":"/Telegram@V2ray_Alpha","headers":{"host":"my.ski1plag.ir"}}}
   - {"name":"🚩CF | 🔴 | vless | @mehrosaboran | 0","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"6f690965-3be3-43bb-9331-3ead6efb20aa","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN","headers":{"host":"sib.sibzamini.dpdns.org"}}}
   - {"name":"🚩CF | 🔴 | vless | @mehrosaboran | 1","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"a5bb3891-fc00-49a7-8117-740803e3eaa2","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @mehrosaboran | 2","type":"vless","server":"104.18.26.90","port":80,"udp":false,"uuid":"6f690965-3be3-43bb-9331-3ead6efb20aa","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN","headers":{"host":"sib.sibzamini.dpdns.org"}}}
@@ -640,7 +639,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 1'
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 2'
       - '🇳🇱NL | 🔴 | vless | @flyv2ray | 4'
-      - '🚩CF | 🔴 | vless | @flyv2ray | 5'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 0'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 1'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 2'
@@ -918,7 +916,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 1'
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 2'
       - '🇳🇱NL | 🔴 | vless | @flyv2ray | 4'
-      - '🚩CF | 🔴 | vless | @flyv2ray | 5'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 0'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 1'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 2'
@@ -1195,7 +1192,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @flyv2ray | 1'
       - '🇮🇷IR | 🔴 | vless | @flyv2ray | 2'
       - '🇳🇱NL | 🔴 | vless | @flyv2ray | 4'
-      - '🚩CF | 🔴 | vless | @flyv2ray | 5'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 0'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 1'
       - '🚩CF | 🔴 | vless | @mehrosaboran | 2'

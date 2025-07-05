@@ -425,7 +425,6 @@
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
                 "🇳🇱NL | 🔴 | vless | @flyv2ray | 4",
-                "🚩CF | 🔴 | vless | @flyv2ray | 5",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 0",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 1",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 2",
@@ -788,7 +787,6 @@
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
                 "🇳🇱NL | 🔴 | vless | @flyv2ray | 4",
-                "🚩CF | 🔴 | vless | @flyv2ray | 5",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 0",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 1",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 2",
@@ -7995,37 +7993,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @flyv2ray | 5",
-            "type": "vless",
-            "server": "104.16.53.11",
-            "server_port": 8443,
-            "uuid": "7c9e3c1d-a360-4429-9189-e45a98de7fde",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "my.ski1plag.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram@V2ray_Alpha",
-                "headers": {
-                    "Host": "my.ski1plag.ir"
-                }
             }
         },
         {
