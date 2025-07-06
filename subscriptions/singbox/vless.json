@@ -288,15 +288,16 @@
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 121",
                 "🚩CF | 🔴 | vless | @vmessorg | 0",
                 "🚩CF | 🔴 | vless | @vmessorg | 1",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 2",
-                "🚩CF | 🔴 | vless | @vmessorg | 4",
-                "🇫🇮FI | 🔴 | vless | @vmessorg | 5",
-                "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
-                "🚩CF | 🔴 | vless | @vmessorg | 8",
+                "🚩CF | 🔴 | vless | @vmessorg | 2",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 3",
+                "🚩CF | 🔴 | vless | @vmessorg | 5",
+                "🇫🇮FI | 🔴 | vless | @vmessorg | 6",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 7",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 0",
-                "🇸🇪SE | 🔴 | vless | @ShadowProxy66 | 1",
-                "🚩CF | 🔴 | vless | @ShadowProxy66 | 2",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
+                "🇸🇪SE | 🔴 | vless | @ShadowProxy66 | 2",
+                "🚩CF | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
@@ -338,6 +339,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 4",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -626,15 +628,16 @@
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 121",
                 "🚩CF | 🔴 | vless | @vmessorg | 0",
                 "🚩CF | 🔴 | vless | @vmessorg | 1",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 2",
-                "🚩CF | 🔴 | vless | @vmessorg | 4",
-                "🇫🇮FI | 🔴 | vless | @vmessorg | 5",
-                "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
-                "🚩CF | 🔴 | vless | @vmessorg | 8",
+                "🚩CF | 🔴 | vless | @vmessorg | 2",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 3",
+                "🚩CF | 🔴 | vless | @vmessorg | 5",
+                "🇫🇮FI | 🔴 | vless | @vmessorg | 6",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 7",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 0",
-                "🇸🇪SE | 🔴 | vless | @ShadowProxy66 | 1",
-                "🚩CF | 🔴 | vless | @ShadowProxy66 | 2",
-                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
+                "🇸🇪SE | 🔴 | vless | @ShadowProxy66 | 2",
+                "🚩CF | 🔴 | vless | @ShadowProxy66 | 3",
+                "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 7",
@@ -676,6 +679,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🚩CF | 🔴 | vless | @v2ray1_ng | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 4",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -4780,6 +4784,27 @@
         {
             "tag": "🚩CF | 🔴 | vless | @vmessorg | 0",
             "type": "vless",
+            "server": "104.21.16.48",
+            "server_port": 80,
+            "uuid": "7c18eeab-f38f-48a2-ae25-50c26cdfb0d9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "104.21.16.48"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @vmessorg | 1",
+            "type": "vless",
             "server": "104.18.26.90",
             "server_port": 80,
             "uuid": "6f690965-3be3-43bb-9331-3ead6efb20aa",
@@ -4799,7 +4824,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @vmessorg | 1",
+            "tag": "🚩CF | 🔴 | vless | @vmessorg | 2",
             "type": "vless",
             "server": "104.16.53.11",
             "server_port": 2053,
@@ -4830,7 +4855,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 3",
             "type": "vless",
             "server": "add.ski1plag.ir",
             "server_port": 80,
@@ -4851,7 +4876,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @vmessorg | 4",
+            "tag": "🚩CF | 🔴 | vless | @vmessorg | 5",
             "type": "vless",
             "server": "172.66.132.196",
             "server_port": 443,
@@ -4882,7 +4907,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @vmessorg | 5",
+            "tag": "🇫🇮FI | 🔴 | vless | @vmessorg | 6",
             "type": "vless",
             "server": "135.181.201.193",
             "server_port": 56521,
@@ -4896,7 +4921,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
+            "tag": "🇮🇷IR | 🔴 | vless | @vmessorg | 7",
             "type": "vless",
             "server": "77.72.80.143",
             "server_port": 8080,
@@ -4917,11 +4942,11 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @vmessorg | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 0",
             "type": "vless",
-            "server": "104.16.241.234",
-            "server_port": 80,
-            "uuid": "92f481b6-ad92-43e4-a683-2bb0aeaa9846",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "4d91916f-a7fd-419b-8b90-640bb8d1b9f9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4929,16 +4954,26 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "MypHOtomoments.iR.",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/?ed=2590",
+                "path": "\/CY6EnyeHmgNASXJI\/MTU5LjY5LjE0LjEzOA?ed=8080",
                 "headers": {
-                    "Host": "104.16.241.234"
+                    "Host": "MypHOtomoments.iR."
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
             "type": "vless",
             "server": "101reel.com",
             "server_port": 443,
@@ -4969,7 +5004,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @ShadowProxy66 | 1",
+            "tag": "🇸🇪SE | 🔴 | vless | @ShadowProxy66 | 2",
             "type": "vless",
             "server": "ssl1.komanserver.ir",
             "server_port": 443,
@@ -4993,7 +5028,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ShadowProxy66 | 2",
+            "tag": "🚩CF | 🔴 | vless | @ShadowProxy66 | 3",
             "type": "vless",
             "server": "104.16.53.11",
             "server_port": 80,
@@ -5014,7 +5049,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 4",
             "type": "vless",
             "server": "add.ski1plag.ir",
             "server_port": 80,
@@ -6202,6 +6237,27 @@
                 "path": "\/QdRVz1eSwuT9ClmZ\/MzQuODguNjMuMTYw?ed=2560",
                 "headers": {
                     "Host": "TITanTabLOmaNAHaMRaH.IR"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 4",
+            "type": "vless",
+            "server": "188.114.98.18",
+            "server_port": 80,
+            "uuid": "a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "188.114.98.18"
                 }
             }
         },
