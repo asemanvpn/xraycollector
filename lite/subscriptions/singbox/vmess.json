@@ -109,8 +109,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 9",
-                "🇯🇵JP | 🟢 | vmess | @Hope_Net | 10",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 5",
                 "🇦🇹AT | 🟢 | vmess | @FreakConfig | 0"
             ]
@@ -122,8 +122,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 9",
-                "🇯🇵JP | 🟢 | vmess | @Hope_Net | 10",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 5",
                 "🇦🇹AT | 🟢 | vmess | @FreakConfig | 0"
             ],
@@ -223,11 +223,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 9",
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "bacacab-aacb-aacb-cbad-abbccacabbac",
+            "server": "50033.baidu-cdn.top",
+            "server_port": 50033,
+            "uuid": "540a5d31-cd1f-41bd-b5bd-92126f2cdc85",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -240,11 +240,11 @@
             }
         },
         {
-            "tag": "🇯🇵JP | 🟢 | vmess | @Hope_Net | 10",
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
-            "server": "150.230.61.110",
-            "server_port": 23451,
-            "uuid": "df012626-9d54-4d5d-b2ef-18ca034c246d",
+            "server": "xdd.dashuai.cyou",
+            "server_port": 45051,
+            "uuid": "94e76aaf-a5cb-4d08-9872-cb389bcd4a57",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -254,13 +254,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "150.230.61.110"
-                }
             }
         },
         {
