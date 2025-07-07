@@ -429,7 +429,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/9c3087e8-e9b9-4940-c87b-e5ff64da58d2@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@melov2ray%20|%203"
+        "config": "vless:\/\/9c3087e8-e9b9-4940-c87b-e5ff64da58d2@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#🇺🇸US%20|%20🔴%20|%20vless%20|%20@melov2ray%20|%203"
     },
     {
         "channel": {
@@ -591,7 +591,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:80?path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter&security=none&encryption=none&host=www.speedtest.net.a.3.speedtest2029.com.&type=ws#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@ARv2ray%20|%204"
+        "config": "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:80?path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter&security=none&encryption=none&host=www.speedtest.net.a.3.speedtest2029.com.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@ARv2ray%20|%204"
     },
     {
         "channel": {
@@ -1266,7 +1266,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/208a0bb7-180e-4acc-95f0-dbfa397f0fd4@all2.golnar-clod.ir:8880?path=%2F%3Fed%3D80&security=none&encryption=none&host=saraq.golnar-clod.ir&type=httpupgrade#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@V2rayNGn%20|%2013"
+        "config": "vless:\/\/208a0bb7-180e-4acc-95f0-dbfa397f0fd4@all2.golnar-clod.ir:8880?path=%2F%3Fed%3D80&security=none&encryption=none&host=saraq.golnar-clod.ir&type=httpupgrade#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2rayNGn%20|%2013"
     },
     {
         "channel": {
@@ -1734,97 +1734,7 @@
             "logo": null
         },
         "type": "ss",
-        "config": "ss:\/\/ZTJkNjQ1NWMtOTg0Ni00NTAyLTgzOTQtMTZiOGMxYzA3YjY4Og==@172.66.47.25:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%200"
-    },
-    {
-        "channel": {
-            "username": " ss ",
-            "title": null,
-            "logo": null
-        },
-        "type": "ss",
-        "config": "ss:\/\/Y2I3OTY2NDYtZDUyOC00Yjk2LTk5ODQtODZkYmNlZWQ5NWFkOg==@104.21.16.1:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%201"
-    },
-    {
-        "channel": {
-            "username": " ss ",
-            "title": null,
-            "logo": null
-        },
-        "type": "ss",
-        "config": "ss:\/\/OGEwNmNjYTEtZDNkYS00ZjY2LWJkMmYtNzVmZjVlZTI0MTYzOg==@104.21.35.39:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%202"
-    },
-    {
-        "channel": {
-            "username": " ss ",
-            "title": null,
-            "logo": null
-        },
-        "type": "ss",
-        "config": "ss:\/\/ZDc3OTA2YTEtNTlmZC00MjIyLWJhOWUtM2RlODM0YmIzM2UyOg==@172.67.181.89:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%203"
-    },
-    {
-        "channel": {
-            "username": " ss ",
-            "title": null,
-            "logo": null
-        },
-        "type": "ss",
-        "config": "ss:\/\/OWFlMThhYTAtODg4Ny00OTEzLWEzNWEtOWYwMTRkNThkMTAwOg==@188.114.96.3:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%204"
-    },
-    {
-        "channel": {
-            "username": " ss ",
-            "title": null,
-            "logo": null
-        },
-        "type": "ss",
-        "config": "ss:\/\/MWE1NjNlOTItOWY5Yi00MTU4LWI4MDAtNTBlZDRmYzk4MjE0Og==@www.speedtest.net:80#🇺🇸US%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%205"
-    },
-    {
-        "channel": {
-            "username": " ss ",
-            "title": null,
-            "logo": null
-        },
-        "type": "ss",
-        "config": "ss:\/\/NTNmYThmYWYtYmE0Yi00MzIyLTljNjktYTNlNWIxNTU1MDQ5Og==@23.134.82.2:80#🇺🇸US%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%206"
-    },
-    {
-        "channel": {
-            "username": " ss ",
-            "title": null,
-            "logo": null
-        },
-        "type": "ss",
-        "config": "ss:\/\/MzIxY2MwMDctYmI4NS00MWM5LWI2ODYtMWY0NWNmNTE3NGUwOg==@172.66.45.9:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%207"
-    },
-    {
-        "channel": {
-            "username": " ss ",
-            "title": null,
-            "logo": null
-        },
-        "type": "ss",
-        "config": "ss:\/\/ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@188.114.96.3:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%208"
-    },
-    {
-        "channel": {
-            "username": " ss ",
-            "title": null,
-            "logo": null
-        },
-        "type": "ss",
-        "config": "ss:\/\/ZDQ2NjFkMTItZDZmNy00ZmYyLWJkMWUtZmM5Y2RjMmM5Y2MxOg==@190.93.244.103:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%209"
-    },
-    {
-        "channel": {
-            "username": " ss ",
-            "title": null,
-            "logo": null
-        },
-        "type": "ss",
-        "config": "ss:\/\/ZWEyODYxMDktZDIwZi00MTVlLTg0OWUtNGFmMjBhYjA0YjY1Og==@147.135.1.195:443#🇺🇸US%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2010"
+        "config": "ss:\/\/NzBmODY5N2ItZjlmMy00NjkyLThlMGEtM2QxODM0ZmQ3NmRjOg==@104.26.12.31:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%200"
     },
     {
         "channel": {
@@ -1833,7 +1743,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjQ2LjI1MC4yMzcuMTk2IiwicG9ydCI6IjI5OTk5IiwiaWQiOiJiMzFmYzEzNC05NzhlLTQxNzYtODU3OS04MTA3ZDZhMGNlZGUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWNTRyB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQERlYW1OZXRfUHJveHkgfCAxMSJ9"
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjU3LjEyOS4yNS4yMCIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiNTcuMTI5LjI1LjIwIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYURFIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBARGVhbU5ldF9Qcm94eSB8IDEifQ=="
     },
     {
         "channel": {
@@ -1842,7 +1752,7 @@
             "logo": null
         },
         "type": "ss",
-        "config": "ss:\/\/NDRiNjg2MjUtODAyMi00NTJiLThjOTEtZWU0MGFiZTdmZjYzOg==@104.21.85.68:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2012"
+        "config": "ss:\/\/NTNmYThmYWYtYmE0Yi00MzIyLTljNjktYTNlNWIxNTU1MDQ5Og==@45.12.30.234:80#🇬🇧GB%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%202"
     },
     {
         "channel": {
@@ -1851,7 +1761,7 @@
             "logo": null
         },
         "type": "ss",
-        "config": "ss:\/\/MzVkNjUzMWYtOTNhZC00ZGZlLWI1YmEtYjhjM2VmODY5OGQ0Og==@104.21.64.1:8443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2013"
+        "config": "ss:\/\/ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@104.21.53.47:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%203"
     },
     {
         "channel": {
@@ -1860,7 +1770,7 @@
             "logo": null
         },
         "type": "ss",
-        "config": "ss:\/\/ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@www.visa.com.hk:2095#🇺🇸US%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2014"
+        "config": "ss:\/\/NGQ1NDAwZWYtMjAxZC00M2EzLTg5MGYtYzc2Nzc0NmZjNTI0Og==@104.21.32.208:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%204"
     },
     {
         "channel": {
@@ -1869,7 +1779,7 @@
             "logo": null
         },
         "type": "ss",
-        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#🇺🇸US%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2015"
+        "config": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#🇺🇸US%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%205"
     },
     {
         "channel": {
@@ -1878,7 +1788,115 @@
             "logo": null
         },
         "type": "ss",
-        "config": "ss:\/\/MzUzMjM1OTQtOWVlMi00ZjA2LWFlMTQtMzE0OGI2OTUwNjIxOg==@188.114.97.171:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2017"
+        "config": "ss:\/\/M2ZlZmMxMDAtZmFlZC00M2FkLWIwODctZDQ3ZGRmZTc1MTIxOg==@172.67.147.162:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%206"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/YWQ0YWExNjUtYzMwZC00OGVjLTkzOTctYWYxZDFkM2IxYzRmOg==@188.114.99.192:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%207"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/MjIzOGY3MjgtZDdlYS00ODQ1LTg5NDEtNDM0N2VkOWJjODUzOg==@tgju.org:8080#🇺🇸US%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%208"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/MTNlZDRhOGItNjA0OS00ZjI2LThjYjMtOTg3MGRmNGZkYTRjOg==@104.18.14.19:2052#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%209"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/ZGZkZDk2NmQtZGI3Mi00NGEzLWJlMDYtZGZjMWRlZDFjYmFlOg==@104.21.32.1:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2010"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/NTNmYThmYWYtYmE0Yi00MzIyLTljNjktYTNlNWIxNTU1MDQ5Og==@45.131.4.131:80#🇳🇱NL%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2011"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/NTNmYThmYWYtYmE0Yi00MzIyLTljNjktYTNlNWIxNTU1MDQ5Og==@5.10.215.20:8880#🇦🇲AM%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2012"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/MDcwNmE3NjItM2ZkNS00MjA1LWI1YjktNDJmNzQ2YTMxMTlmOg==@tgju.org:8080#🇺🇸US%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2013"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/NTRmNmU3OGMtYjQ5Ny00ZGI3LWJhNDgtMzhjNGNmODFkNWVmOg==@188.114.99.16:2053#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2014"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/NTNmYThmYWYtYmE0Yi00MzIyLTljNjktYTNlNWIxNTU1MDQ5Og==@195.85.59.20:8880#🇨🇾CY%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2015"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/OWFlMThhYTAtODg4Ny00OTEzLWEzNWEtOWYwMTRkNThkMTAwOg==@188.114.97.3:443#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2016"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/OTFkZGRhMDktYmMxYy00MjZjLWJmODktZDAxMzkxY2YwMDk2Og==@16.162.200.251:13009#🇭🇰HK%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2017"
+    },
+    {
+        "channel": {
+            "username": " ss ",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/NDhlYjg2ODQtYWExMi00YjZkLWIwZWYtNzY1MTkzZTZmYjQ5Og==@104.24.33.26:80#🚩CF%20|%20🟢%20|%20ss%20|%20@DeamNet_Proxy%20|%2018"
     },
     {
         "channel": {
@@ -2994,7 +3012,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/9c6a11da-1f88-4910-8e0a-2f1a175e428f@www.speedtest.net:2096?encryption=none&security=tls&sni=638872443451926434.kish-prx-dnraaaf.info&type=ws&alpn=h3h2&host=638872443451926434.kish-prx-dnraaaf.info&path=%2Fgybaakws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@DailyV2RY%20|%2075"
+        "config": "vless:\/\/9c6a11da-1f88-4910-8e0a-2f1a175e428f@www.speedtest.net:2096?encryption=none&security=tls&sni=638872443451926434.kish-prx-dnraaaf.info&type=ws&alpn=h3h2&host=638872443451926434.kish-prx-dnraaaf.info&path=%2Fgybaakws#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@DailyV2RY%20|%2075"
     },
     {
         "channel": {
@@ -3273,7 +3291,16 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=%2FQdRVz1eSwuT9ClmZ%2FMzQuODguNjMuMTYw%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#🇺🇸US%20|%20🔴%20|%20vless%20|%20@free1_vpn%20|%205"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#🇩🇪DE%20|%20🔴%20|%20vless%20|%20@free1_vpn%20|%200"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
+        "config": "vless:\/\/4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=%2FQdRVz1eSwuT9ClmZ%2FMzQuODguNjMuMTYw%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#🇺🇸US%20|%20🔴%20|%20vless%20|%20@free1_vpn%20|%207"
     },
     {
         "channel": {
@@ -3282,7 +3309,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&encryption=none&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=86#🇫🇮FI%20|%20🟢%20|%20vless%20|%20@free1_vpn%20|%206"
+        "config": "vless:\/\/7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&encryption=none&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=86#🇫🇮FI%20|%20🟢%20|%20vless%20|%20@free1_vpn%20|%208"
     },
     {
         "channel": {
@@ -3291,7 +3318,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjEwNC4yMS42OS40NCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjMWZkNzgwYS0zNDA4LTRmNDgtYTkzMi01ODMyYTI4Y2U5ZjYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9hdXNndDAyLmJlc3Rmb3J4cmF5LmJ1enpcL2xpbmt3cyIsImhvc3QiOiJkcnktZGlzay1kZmMwLmhxMHNyNWVieHBqNjB2Ynoud29ya2Vycy5kZXYiLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAwIn0="
+        "config": "vmess:\/\/eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYmFiYWNhYy1iY2FhLWFhYmMtY2FkYi1hY2JhYmNhY2JhY2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MjA4MCwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNzU0WFggfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDAifQ=="
     },
     {
         "channel": {
@@ -3300,7 +3327,16 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYmNhY2FhYi1hYWNiLWNiYWEtZGJhYy1jYmFiY2FiY2FhY2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNzU0WFggfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDEifQ=="
+        "config": "vmess:\/\/eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYmFiY2FjYS1jYWJhLWNhYmEtYWNkYi1iY2JhY2NiY2FiYWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MjA4MCwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNzU0WFggfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDEifQ=="
+    },
+    {
+        "channel": {
+            "username": " vmess ",
+            "title": null,
+            "logo": null
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjEwNC4yMS42OS40NCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjMWZkNzgwYS0zNDA4LTRmNDgtYTkzMi01ODMyYTI4Y2U5ZjYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9hdXNndDAyLmJlc3Rmb3J4cmF5LmJ1enpcL2xpbmt3cyIsImhvc3QiOiJkcnktZGlzay1kZmMwLmhxMHNyNWVieHBqNjB2Ynoud29ya2Vycy5kZXYiLCJ0bHMiOiIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBASG9wZV9OZXQgfCAyIn0="
     },
     {
         "channel": {
@@ -3436,15 +3472,6 @@
         },
         "type": "vless",
         "config": "vless:\/\/%54ELEGR%41M-N%55F%69L%54ER@104.18.26.90:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=kk37.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=ws#🚩CF%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%203"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
-        "config": "vless:\/\/6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none%3D&host=sib.sibzamini.dpdns.org&type=ws#🚩CF%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%204"
     },
     {
         "channel": {
