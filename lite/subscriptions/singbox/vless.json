@@ -137,8 +137,8 @@
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 15",
                 "🇮🇹IT | 🔴 | vless | @V2rayNGn | 16",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 11",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 119",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 120",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 121",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 122",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 5",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 6",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
@@ -162,7 +162,7 @@
                 "🇫🇮FI | 🔴 | vless | @nofiltering2 | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇨🇾CY | 🔴 | vless | @kingofilter | 3",
+                "🇨🇾CY | 🔴 | vless | @kingofilter | 4",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0"
             ]
@@ -202,8 +202,8 @@
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 15",
                 "🇮🇹IT | 🔴 | vless | @V2rayNGn | 16",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 11",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 119",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 120",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 121",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 122",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 5",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 6",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 1",
@@ -227,7 +227,7 @@
                 "🇫🇮FI | 🔴 | vless | @nofiltering2 | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇨🇾CY | 🔴 | vless | @kingofilter | 3",
+                "🇨🇾CY | 🔴 | vless | @kingofilter | 4",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0"
             ],
@@ -945,11 +945,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 119",
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 121",
             "type": "vless",
-            "server": "193.151.137.17",
-            "server_port": 4411,
-            "uuid": "dbc9b263-f858-44c1-af4f-4e4ee1723490",
+            "server": "91.99.145.219",
+            "server_port": 443,
+            "uuid": "2eaef053-5fd6-4def-b234-d760690355ff",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -959,11 +959,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 120",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 122",
             "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 443,
-            "uuid": "42795c1c-acab-46f5-8c10-a86de801411b",
+            "server": "SvnTeam.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "da7086f8-055a-463c-b83f-7a9b6b140a9b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -971,21 +971,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "s3.mAIN-2.WorKeRs.Dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/iTCBmrOFrKpdwUWZ?ed",
+                "path": "\/@SvnProBot?ed=2560",
                 "headers": {
-                    "Host": "s3.mAIN-2.WorKeRs.Dev"
+                    "Host": "SvnTeam.fast.hosting-ip.com"
                 }
             }
         },
@@ -1564,7 +1554,7 @@
             }
         },
         {
-            "tag": "🇨🇾CY | 🔴 | vless | @kingofilter | 3",
+            "tag": "🇨🇾CY | 🔴 | vless | @kingofilter | 4",
             "type": "vless",
             "server": "154.92.9.46",
             "server_port": 443,
