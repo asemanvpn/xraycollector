@@ -1297,6 +1297,27 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 11",
             "type": "vless",
+            "server": "104.18.26.90",
+            "server_port": 80,
+            "uuid": "6f690965-3be3-43bb-9331-3ead6efb20aa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560\/?JOKERRVPNBIA_CHANNEL@JOKERRVPN",
+                "headers": {
+                    "Host": "104.18.26.90"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 12",
+            "type": "vless",
             "server": "104.21.16.48",
             "server_port": 80,
             "uuid": "7c18eeab-f38f-48a2-ae25-50c26cdfb0d9",
@@ -1312,27 +1333,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "104.21.16.48"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 12",
-            "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 80,
-            "uuid": "6f690965-3be3-43bb-9331-3ead6efb20aa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560\/",
-                "headers": {
-                    "Host": "104.18.26.90"
                 }
             }
         },
