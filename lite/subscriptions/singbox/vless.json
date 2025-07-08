@@ -106,16 +106,16 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 13",
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 14",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 13",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 14",
+                "🇺🇸US | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇦🇲AM | 🟢 | vless | @ipV2Ray | 3",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 7",
@@ -133,7 +133,7 @@
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
-                "🇨🇦CA | 🔴 | vless | @V2rayNGn | 14",
+                "🇺🇸US | 🔴 | vless | @V2rayNGn | 14",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 11",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 125",
@@ -152,7 +152,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
+                "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 7",
@@ -170,16 +170,16 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 13",
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 14",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 13",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 14",
+                "🇺🇸US | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇦🇲AM | 🟢 | vless | @ipV2Ray | 3",
-                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
+                "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 7",
@@ -197,7 +197,7 @@
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
-                "🇨🇦CA | 🔴 | vless | @V2rayNGn | 14",
+                "🇺🇸US | 🔴 | vless | @V2rayNGn | 14",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 11",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 125",
@@ -216,7 +216,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
+                "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 7",
@@ -250,7 +250,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 13",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 2086,
@@ -271,7 +271,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 14",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 2086,
@@ -292,7 +292,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 1",
             "type": "vless",
             "server": "ns.cloudflare.com",
             "server_port": 2086,
@@ -463,7 +463,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -851,7 +851,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2rayNGn | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @V2rayNGn | 14",
             "type": "vless",
             "server": "all2.golnar-clod.ir",
             "server_port": 8880,
@@ -1269,7 +1269,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
+            "tag": "🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
             "server": "141.101.121.55",
             "server_port": 8080,
