@@ -134,8 +134,8 @@
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 27",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3",
-                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 4",
+                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 4",
+                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 5",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
@@ -188,7 +188,6 @@
                 "🇫🇮FI | 🔴 | vless | @nofiltering2 | 23",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇫🇮FI | 🟢 | vless | @kingofilter | 4",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 8",
                 "🇩🇪DE | 🔴 | vless | @GozargahVPN | 9",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -228,8 +227,8 @@
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 27",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
-                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3",
-                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 4",
+                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 4",
+                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 5",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
@@ -282,7 +281,6 @@
                 "🇫🇮FI | 🔴 | vless | @nofiltering2 | 23",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇫🇮FI | 🟢 | vless | @kingofilter | 4",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 8",
                 "🇩🇪DE | 🔴 | vless | @GozargahVPN | 9",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -923,7 +921,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 4",
             "type": "vless",
             "server": "real-all3.sdcards.ir",
             "server_port": 8501,
@@ -952,7 +950,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 4",
+            "tag": "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 5",
             "type": "vless",
             "server": "srv5.raykaservers.com",
             "server_port": 10215,
@@ -2147,35 +2145,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇫🇮FI | 🟢 | vless | @kingofilter | 4",
-            "type": "vless",
-            "server": "94.156.116.5",
-            "server_port": 443,
-            "uuid": "7f97131b-0d9d-4be9-b7b4-3fa21403cffa",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw",
-                    "short_id": "86"
-                }
             }
         },
         {
