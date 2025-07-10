@@ -106,9 +106,9 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @XsV2ray | 0",
-                "🇳🇱NL | 🟢 | vless | @ipV2Ray | 3",
-                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 4",
-                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 5",
+                "🇳🇱NL | 🟢 | vless | @ipV2Ray | 1",
+                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 2",
+                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 3",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 7",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 9",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 10",
@@ -117,7 +117,7 @@
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 13",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 14",
                 "🇸🇪SE | 🟢 | vless | @shh_proxy | 12",
-                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3",
+                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 87",
@@ -160,9 +160,9 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🟢 | vless | @XsV2ray | 0",
-                "🇳🇱NL | 🟢 | vless | @ipV2Ray | 3",
-                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 4",
-                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 5",
+                "🇳🇱NL | 🟢 | vless | @ipV2Ray | 1",
+                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 2",
+                "🇦🇲AM | 🟢 | vless | @ipV2Ray | 3",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 7",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 9",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 10",
@@ -171,7 +171,7 @@
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 13",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 14",
                 "🇸🇪SE | 🟢 | vless | @shh_proxy | 12",
-                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3",
+                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 87",
@@ -258,7 +258,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @ipV2Ray | 3",
+            "tag": "🇳🇱NL | 🟢 | vless | @ipV2Ray | 1",
             "type": "vless",
             "server": "95.164.17.75",
             "server_port": 443,
@@ -294,7 +294,7 @@
             }
         },
         {
-            "tag": "🇦🇲AM | 🟢 | vless | @ipV2Ray | 4",
+            "tag": "🇦🇲AM | 🟢 | vless | @ipV2Ray | 2",
             "type": "vless",
             "server": "45.83.143.71",
             "server_port": 443,
@@ -330,7 +330,7 @@
             }
         },
         {
-            "tag": "🇦🇲AM | 🟢 | vless | @ipV2Ray | 5",
+            "tag": "🇦🇲AM | 🟢 | vless | @ipV2Ray | 3",
             "type": "vless",
             "server": "45.83.143.71",
             "server_port": 2087,
@@ -647,7 +647,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
             "type": "vless",
             "server": "real-all3.sdcards.ir",
             "server_port": 8501,
