@@ -155,8 +155,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 8",
                 "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 9",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 7",
-                "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 8",
+                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 8",
+                "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 9",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
@@ -251,8 +251,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 8",
                 "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 9",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 7",
-                "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 8",
+                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 8",
+                "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 9",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
@@ -1412,7 +1412,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 7",
+            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 8",
             "type": "vless",
             "server": "91.99.207.172",
             "server_port": 32171,
@@ -1426,7 +1426,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 8",
+            "tag": "🇳🇱NL | 🔴 | vless | @v2rayngvpn | 9",
             "type": "vless",
             "server": "45.131.4.147",
             "server_port": 80,
