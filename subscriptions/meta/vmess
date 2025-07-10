@@ -133,7 +133,7 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 14","type":"vmess","server":"120.232.153.63","port":"40972","cipher":"auto","uuid":"770ee730-2450-4e3c-a6c6-3932bd32afbd","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 15","type":"vmess","server":"183.236.48.163","port":"58831","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 16","type":"vmess","server":"120.232.153.27","port":"58831","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇧🇷BR | 🟢 | vmess | @DeamNet_Proxy | 0","type":"vmess","server":"pq-brazil1.09vpn.com","port":"80","cipher":"auto","uuid":"24b6bbfb-9b27-4f17-bd32-67523bf487d9","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"pq-brazil1.09vpn.com"}}}
+  - {"name":"🇧🇷BR | 🟢 | vmess | @DeamNet_Proxy | 5","type":"vmess","server":"pq-brazil1.09vpn.com","port":"80","cipher":"auto","uuid":"24b6bbfb-9b27-4f17-bd32-67523bf487d9","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"pq-brazil1.09vpn.com"}}}
   - {"name":"🇺🇸US | 🟢 | vmess | @prrofile_purple | 101","type":"vmess","server":"198.2.218.216","port":"44883","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇳🇱NL | 🟢 | vmess | @customv2ray | 7","type":"vmess","server":"channel.dollardoon.com","port":"15709","cipher":"auto","uuid":"4ac39e8a-6d5c-48bb-b0d0-f633c829113e","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪DE | 🟢 | vmess | @DailyV2RY | 163","type":"vmess","server":"91.99.187.42","port":"46199","cipher":"auto","uuid":"1382d72f-6509-4d16-aae7-c67121c736dc","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -173,7 +173,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 14'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 15'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 16'
-      - '🇧🇷BR | 🟢 | vmess | @DeamNet_Proxy | 0'
+      - '🇧🇷BR | 🟢 | vmess | @DeamNet_Proxy | 5'
       - '🇺🇸US | 🟢 | vmess | @prrofile_purple | 101'
       - '🇳🇱NL | 🟢 | vmess | @customv2ray | 7'
       - '🇩🇪DE | 🟢 | vmess | @DailyV2RY | 163'
@@ -213,7 +213,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 14'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 15'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 16'
-      - '🇧🇷BR | 🟢 | vmess | @DeamNet_Proxy | 0'
+      - '🇧🇷BR | 🟢 | vmess | @DeamNet_Proxy | 5'
       - '🇺🇸US | 🟢 | vmess | @prrofile_purple | 101'
       - '🇳🇱NL | 🟢 | vmess | @customv2ray | 7'
       - '🇩🇪DE | 🟢 | vmess | @DailyV2RY | 163'
@@ -252,7 +252,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 14'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 15'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 16'
-      - '🇧🇷BR | 🟢 | vmess | @DeamNet_Proxy | 0'
+      - '🇧🇷BR | 🟢 | vmess | @DeamNet_Proxy | 5'
       - '🇺🇸US | 🟢 | vmess | @prrofile_purple | 101'
       - '🇳🇱NL | 🟢 | vmess | @customv2ray | 7'
       - '🇩🇪DE | 🟢 | vmess | @DailyV2RY | 163'

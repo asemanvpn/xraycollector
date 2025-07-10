@@ -147,7 +147,7 @@
                 "🚩CF | 🔴 | vless | @NIM_VPN_ir | 0",
                 "🚩CF | 🔴 | vless | @NIM_VPN_ir | 1",
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 2",
-                "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 3",
+                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 3",
                 "🇱🇰LK | 🔴 | vless | @NIM_VPN_ir | 4",
                 "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 6",
@@ -699,7 +699,7 @@
                 "🚩CF | 🔴 | vless | @NIM_VPN_ir | 0",
                 "🚩CF | 🔴 | vless | @NIM_VPN_ir | 1",
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 2",
-                "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 3",
+                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 3",
                 "🇱🇰LK | 🔴 | vless | @NIM_VPN_ir | 4",
                 "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 6",
@@ -2071,7 +2071,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 3",
+            "tag": "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 3",
             "type": "vless",
             "server": "de.foxinonet.ir",
             "server_port": 443,
