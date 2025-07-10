@@ -4,4 +4,3 @@ trojan://telegram-id-privatevpns@15.188.93.104:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.188.5.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15
 trojan://telegram-id-directvpn@15.188.93.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 14
 trojan://telegram-id-directvpn@15.188.5.40:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 15
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#🇫🇷FR | 🔴 | vless | @Outlinev2rayNG | 9
