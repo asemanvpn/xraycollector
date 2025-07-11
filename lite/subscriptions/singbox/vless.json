@@ -151,8 +151,8 @@
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 11",
                 "🇮🇷IR | 🟢 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
-                "🇬🇧GB | 🔴 | vless | @vmessorg | 9",
-                "🇩🇪DE | 🔴 | vless | @vmessorg | 10",
+                "🇳🇱NL | 🔴 | vless | @vmessorg | 7",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 13",
@@ -175,7 +175,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 8",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @Capoit | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 13",
                 "🇮🇷IR | 🔴 | vless | @FreakConfig | 4",
@@ -188,7 +188,6 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 3",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 4",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 7",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 8",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -245,8 +244,8 @@
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 11",
                 "🇮🇷IR | 🟢 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
-                "🇬🇧GB | 🔴 | vless | @vmessorg | 9",
-                "🇩🇪DE | 🔴 | vless | @vmessorg | 10",
+                "🇳🇱NL | 🔴 | vless | @vmessorg | 7",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 8",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 13",
@@ -269,7 +268,7 @@
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 8",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @Capoit | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 13",
                 "🇮🇷IR | 🔴 | vless | @FreakConfig | 4",
@@ -282,7 +281,6 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 3",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 4",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 7",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 8",
                 "❔XX | 🔴 | vless | @SvnTeam | 6",
@@ -1350,32 +1348,25 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @vmessorg | 9",
+            "tag": "🇳🇱NL | 🔴 | vless | @vmessorg | 7",
             "type": "vless",
-            "server": "45.12.30.101",
-            "server_port": 80,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "server": "good.srvice.shop",
+            "server_port": 2020,
+            "uuid": "2466eb01-4400-4281-9c1a-1cb96f9a5083",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram:@ShadowProxy66\/?ed=2560",
-                "headers": {
-                    "Host": "45.12.30.101"
-                }
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @vmessorg | 10",
+            "tag": "🇮🇷IR | 🔴 | vless | @vmessorg | 8",
             "type": "vless",
-            "server": "300232332.webnama.com.tr",
-            "server_port": 1517,
-            "uuid": "3d554bba-9c77-499f-9055-1eb42058ed00",
+            "server": "shop.fox-11-fox.com",
+            "server_port": 8443,
+            "uuid": "fb58aec0-99e6-be8f-b625-f4c8cee9b949",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1416,6 +1407,37 @@
             "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 13",
             "type": "vless",
             "server": "104.18.26.90",
+            "server_port": 443,
+            "uuid": "337bf72e-bb79-4d5f-be3f-7822eb77100c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "52275ZvTv4.V2pLuSmLm.OrG",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "52275ZvTv4.V2pLuSmLm.OrG"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
+            "type": "vless",
+            "server": "104.18.26.90",
             "server_port": 2096,
             "uuid": "337bf72e-bb79-4d5f-be3f-7822eb77100c",
             "flow": "",
@@ -1440,27 +1462,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "Yz9H1m0Fs6.EmShAbKhObE.oRg"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
-            "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 8880,
-            "uuid": "c0191385-e1b2-4039-96d0-59fd94897b6e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Nama",
-                "headers": {
-                    "Host": "104.18.26.90"
                 }
             }
         },
@@ -1862,11 +1863,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
             "type": "vless",
-            "server": "104.16.198.192",
-            "server_port": 8080,
-            "uuid": "6c9bc0f8-b75b-4291-bcf4-e2feaa1df6bf",
+            "server": "104.21.112.1",
+            "server_port": 80,
+            "uuid": "2036e2c3-18a5-4eed-9db4-f91a7f02c7d5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1876,9 +1877,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/193.123.81.105=443",
                 "headers": {
-                    "Host": "104.16.198.192"
+                    "Host": "104.21.112.1"
                 }
             }
         },
@@ -2153,27 +2154,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "188.114.98.18"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 4",
-            "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 80,
-            "uuid": "6f690965-3be3-43bb-9331-3ead6efb20aa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560\/?BIA_CHANEL@JOKERRVPN",
-                "headers": {
-                    "Host": "104.18.26.90"
                 }
             }
         },
