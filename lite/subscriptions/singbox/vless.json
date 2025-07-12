@@ -148,7 +148,8 @@
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 14",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 122",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 123",
-                "🇮🇷IR | 🟢 | vless | @customv2ray | 12",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 8",
+                "🇦🇲AM | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 7",
@@ -240,7 +241,8 @@
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 14",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 122",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 123",
-                "🇮🇷IR | 🟢 | vless | @customv2ray | 12",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 8",
+                "🇦🇲AM | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 7",
@@ -1257,31 +1259,44 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vless | @customv2ray | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 8",
             "type": "vless",
-            "server": "Host.iranservers.space",
-            "server_port": 1020,
-            "uuid": "ac2a2fca-5477-49d3-b419-9da98032607e",
-            "flow": "xtls-rprx-vision",
+            "server": "www.speedtest.net",
+            "server_port": 2095,
+            "uuid": "49f10318-3e61-462b-b57d-0bfa25b77d94",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "eset.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "fInGVxoPLyML5AI8QonrXDCozxPVzIHNY1SRKnsRjBc",
-                    "short_id": "8b"
+            "transport": {
+                "type": "ws",
+                "path": "\/hajmi?*aiojefoijeafiojaoifjoaijfoieajfea4502542---452525252525082850924520759275942592429465265926359832oiejfiaoiefoieaioaeoifiofeaiofeiofeoijeoijfaeoifja7773422834798732498327498huafuawugfuayufu476942652?ed=2050\/?JOKERRVPNBIA_CHANEL@JOKERRVPN",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇦🇲AM | 🔴 | vless | @customv2ray | 9",
+            "type": "vless",
+            "server": "5.10.214.81",
+            "server_port": 8880,
+            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram@V2ray_Alpha",
+                "headers": {
+                    "Host": "reedfree8mahsang2.redorg.ir"
                 }
             }
         },
