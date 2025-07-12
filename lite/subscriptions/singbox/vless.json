@@ -160,12 +160,12 @@
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 8",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
-                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 60",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 61",
+                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 77",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 78",
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 3",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇩🇪DE | 🔴 | vless | @lrnbymaa | 4",
@@ -252,12 +252,12 @@
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 8",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
-                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 60",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 61",
+                "🇩🇪DE | 🔴 | vless | @DailyV2RY | 77",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 78",
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 3",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 4",
                 "🇩🇪DE | 🔴 | vless | @lrnbymaa | 4",
@@ -1527,7 +1527,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 8",
             "type": "vless",
             "server": "104.18.26.90",
             "server_port": 80,
@@ -1624,7 +1624,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @DailyV2RY | 60",
+            "tag": "🇩🇪DE | 🔴 | vless | @DailyV2RY | 77",
             "type": "vless",
             "server": "91.99.178.25",
             "server_port": 443,
@@ -1638,7 +1638,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 61",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 78",
             "type": "vless",
             "server": "www.speedtest.net.cdn.cloudflare.net",
             "server_port": 80,
