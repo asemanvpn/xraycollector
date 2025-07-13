@@ -110,7 +110,7 @@
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 18",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 17",
-                "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
+                "🇩🇪DE | 🔴 | vless | @proxystore11 | 7",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 10",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -126,7 +126,7 @@
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 18",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 17",
-                "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
+                "🇩🇪DE | 🔴 | vless | @proxystore11 | 7",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 10",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -284,7 +284,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @proxystore11 | 6",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxystore11 | 7",
             "type": "vless",
             "server": "vip1.proxystore11.news",
             "server_port": 2052,
