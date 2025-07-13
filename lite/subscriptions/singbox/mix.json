@@ -185,7 +185,7 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 10",
-                "❔XX | 🟢 | vmess | @Hope_Net | 3",
+                "🇫🇷FR | 🟢 | vmess | @Hope_Net | 3",
                 "❔XX | 🟢 | vmess | @Hope_Net | 4",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -295,7 +295,7 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 9",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 10",
-                "❔XX | 🟢 | vmess | @Hope_Net | 3",
+                "🇫🇷FR | 🟢 | vmess | @Hope_Net | 3",
                 "❔XX | 🟢 | vmess | @Hope_Net | 4",
                 "🇺🇸US | 🟢 | vmess | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
@@ -2078,11 +2078,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 3",
+            "tag": "🇫🇷FR | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 8080,
-            "uuid": "baacacb-bcaa-acab-cdba-bcaccaabacbb",
+            "server": "163.5.159.231",
+            "server_port": 443,
+            "uuid": "e537f2f5-2a0c-4f59-92c9-832ca6433bf3",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -2092,6 +2092,23 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "irvideo.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkws",
+                "headers": {
+                    "Host": "irvideo.cfd"
+                }
             }
         },
         {
@@ -2099,7 +2116,7 @@
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 8080,
-            "uuid": "cbacaba-aacb-abca-adbc-ccababbbaacc",
+            "uuid": "baacacb-bcaa-acab-cdba-bcaccaabacbb",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
