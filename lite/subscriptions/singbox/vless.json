@@ -183,6 +183,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 72",
+                "🇺🇸US | 🔴 | vless | @iP_CF | 73",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇮🇹IT | 🔴 | vless | @nofiltering2 | 23",
@@ -278,6 +279,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 72",
+                "🇺🇸US | 🔴 | vless | @iP_CF | 73",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇮🇹IT | 🔴 | vless | @nofiltering2 | 23",
@@ -314,7 +316,7 @@
         {
             "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
             "type": "vless",
-            "server": "104.21.72.109",
+            "server": "172.67.181.173",
             "server_port": 80,
             "uuid": "49970ad1-d6ce-4e5a-8909-a1810818821c",
             "flow": "",
@@ -2024,6 +2026,20 @@
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @iP_CF | 72",
+            "type": "vless",
+            "server": "ip2.yw5jk.org",
+            "server_port": 80,
+            "uuid": "7d2df3b7-51d5-4ebd-a6f6-0ecfd69c27d8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @iP_CF | 73",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
