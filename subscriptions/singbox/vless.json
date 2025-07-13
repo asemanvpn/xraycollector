@@ -582,18 +582,18 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
                 "🚩CF | 🔴 | vless | @iP_CF | 34",
-                "🚩CF | 🔴 | vless | @iP_CF | 36",
+                "🚩CF | 🔴 | vless | @iP_CF | 35",
                 "🚩CF | 🔴 | vless | @iP_CF | 37",
                 "🚩CF | 🔴 | vless | @iP_CF | 38",
-                "🇬🇧GB | 🔴 | vless | @iP_CF | 40",
-                "🇮🇷IR | 🔴 | vless | @iP_CF | 41",
-                "🚩CF | 🔴 | vless | @iP_CF | 43",
-                "🚩CF | 🔴 | vless | @iP_CF | 45",
+                "🚩CF | 🔴 | vless | @iP_CF | 39",
+                "🇬🇧GB | 🔴 | vless | @iP_CF | 41",
+                "🇮🇷IR | 🔴 | vless | @iP_CF | 42",
+                "🚩CF | 🔴 | vless | @iP_CF | 44",
                 "🚩CF | 🔴 | vless | @iP_CF | 46",
-                "🇮🇷IR | 🔴 | vless | @iP_CF | 67",
-                "❔XX | 🔴 | vless | @iP_CF | 69",
-                "🇺🇸US | 🔴 | vless | @iP_CF | 71",
+                "🇮🇷IR | 🔴 | vless | @iP_CF | 68",
+                "❔XX | 🔴 | vless | @iP_CF | 70",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 72",
+                "🇺🇸US | 🔴 | vless | @iP_CF | 73",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
@@ -1125,18 +1125,18 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 9",
                 "🚩CF | 🔴 | vless | @iP_CF | 34",
-                "🚩CF | 🔴 | vless | @iP_CF | 36",
+                "🚩CF | 🔴 | vless | @iP_CF | 35",
                 "🚩CF | 🔴 | vless | @iP_CF | 37",
                 "🚩CF | 🔴 | vless | @iP_CF | 38",
-                "🇬🇧GB | 🔴 | vless | @iP_CF | 40",
-                "🇮🇷IR | 🔴 | vless | @iP_CF | 41",
-                "🚩CF | 🔴 | vless | @iP_CF | 43",
-                "🚩CF | 🔴 | vless | @iP_CF | 45",
+                "🚩CF | 🔴 | vless | @iP_CF | 39",
+                "🇬🇧GB | 🔴 | vless | @iP_CF | 41",
+                "🇮🇷IR | 🔴 | vless | @iP_CF | 42",
+                "🚩CF | 🔴 | vless | @iP_CF | 44",
                 "🚩CF | 🔴 | vless | @iP_CF | 46",
-                "🇮🇷IR | 🔴 | vless | @iP_CF | 67",
-                "❔XX | 🔴 | vless | @iP_CF | 69",
-                "🇺🇸US | 🔴 | vless | @iP_CF | 71",
+                "🇮🇷IR | 🔴 | vless | @iP_CF | 68",
+                "❔XX | 🔴 | vless | @iP_CF | 70",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 72",
+                "🇺🇸US | 🔴 | vless | @iP_CF | 73",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 3",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
@@ -1209,7 +1209,7 @@
         {
             "tag": "🚩CF | 🔴 | vless | @EliV2ray | 1",
             "type": "vless",
-            "server": "104.21.72.109",
+            "server": "172.67.181.173",
             "server_port": 80,
             "uuid": "49970ad1-d6ce-4e5a-8909-a1810818821c",
             "flow": "",
@@ -11834,6 +11834,27 @@
         {
             "tag": "🚩CF | 🔴 | vless | @iP_CF | 34",
             "type": "vless",
+            "server": "104.17.223.175",
+            "server_port": 80,
+            "uuid": "ebe2de6a-6caf-4d57-8275-dbdb3e62d94f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "104.17.223.175"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @iP_CF | 35",
+            "type": "vless",
             "server": "172.67.21.2",
             "server_port": 80,
             "uuid": "ced20efa-802d-4589-a91f-26947496c81f",
@@ -11853,7 +11874,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @iP_CF | 36",
+            "tag": "🚩CF | 🔴 | vless | @iP_CF | 37",
             "type": "vless",
             "server": "172.67.71.48",
             "server_port": 8080,
@@ -11874,7 +11895,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @iP_CF | 37",
+            "tag": "🚩CF | 🔴 | vless | @iP_CF | 38",
             "type": "vless",
             "server": "188.114.98.18",
             "server_port": 80,
@@ -11895,7 +11916,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @iP_CF | 38",
+            "tag": "🚩CF | 🔴 | vless | @iP_CF | 39",
             "type": "vless",
             "server": "104.26.13.8",
             "server_port": 2052,
@@ -11916,7 +11937,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @iP_CF | 40",
+            "tag": "🇬🇧GB | 🔴 | vless | @iP_CF | 41",
             "type": "vless",
             "server": "102.177.189.248",
             "server_port": 2082,
@@ -11937,7 +11958,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @iP_CF | 41",
+            "tag": "🇮🇷IR | 🔴 | vless | @iP_CF | 42",
             "type": "vless",
             "server": "Dc1.zeroboostspeed.org",
             "server_port": 1231,
@@ -11951,7 +11972,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @iP_CF | 43",
+            "tag": "🚩CF | 🔴 | vless | @iP_CF | 44",
             "type": "vless",
             "server": "104.26.13.8",
             "server_port": 80,
@@ -11972,7 +11993,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @iP_CF | 45",
+            "tag": "🚩CF | 🔴 | vless | @iP_CF | 46",
             "type": "vless",
             "server": "172.67.73.48",
             "server_port": 443,
@@ -12003,28 +12024,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @iP_CF | 46",
-            "type": "vless",
-            "server": "104.17.223.175",
-            "server_port": 80,
-            "uuid": "ebe2de6a-6caf-4d57-8275-dbdb3e62d94f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "104.17.223.175"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @iP_CF | 67",
+            "tag": "🇮🇷IR | 🔴 | vless | @iP_CF | 68",
             "type": "vless",
             "server": "185.235.198.188",
             "server_port": 2099,
@@ -12038,7 +12038,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @iP_CF | 69",
+            "tag": "❔XX | 🔴 | vless | @iP_CF | 70",
             "type": "vless",
             "server": "zone.iq.f2hub.ir",
             "server_port": 53403,
@@ -12052,7 +12052,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @iP_CF | 71",
+            "tag": "🇺🇸US | 🔴 | vless | @iP_CF | 72",
             "type": "vless",
             "server": "ip2.yw5jk.org",
             "server_port": 80,
@@ -12066,7 +12066,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @iP_CF | 72",
+            "tag": "🇺🇸US | 🔴 | vless | @iP_CF | 73",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
