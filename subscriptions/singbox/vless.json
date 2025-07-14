@@ -233,7 +233,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 9",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 13",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 18",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 19",
@@ -628,7 +628,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🚩CF | 🔴 | vless | @kingofilter | 5",
+                "🚩CF | 🔴 | vless | @kingofilter | 6",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 0",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 1",
                 "🚩CF | 🔴 | vless | @GozargahVPN | 4",
@@ -776,7 +776,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 9",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 13",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 18",
                 "🚩CF | 🔴 | vless | @Lockey_vpn | 19",
@@ -1171,7 +1171,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🚩CF | 🔴 | vless | @kingofilter | 5",
+                "🚩CF | 🔴 | vless | @kingofilter | 6",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 0",
                 "🇮🇷IR | 🔴 | vless | @GozargahVPN | 1",
                 "🚩CF | 🔴 | vless | @GozargahVPN | 4",
@@ -4063,7 +4063,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -13234,7 +13234,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @kingofilter | 5",
+            "tag": "🚩CF | 🔴 | vless | @kingofilter | 6",
             "type": "vless",
             "server": "188.114.98.18",
             "server_port": 80,
