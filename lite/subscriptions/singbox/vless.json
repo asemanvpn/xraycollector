@@ -129,8 +129,8 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 4",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
-                "❔XX | 🔴 | vless | @rxv2ray | 15",
-                "🇮🇷IR | 🔴 | vless | @rxv2ray | 16",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
+                "❔XX | 🔴 | vless | @rxv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 21",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 22",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -146,13 +146,13 @@
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 129",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 130",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 131",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 21",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 22",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 9",
-                "🇩🇪DE | 🔴 | vless | @vmessorg | 10",
+                "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 1",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 10",
+                "🇩🇪DE | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 10",
                 "🇫🇮FI | 🔴 | vless | @v2rayngvpn | 21",
@@ -221,8 +221,8 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 4",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
-                "❔XX | 🔴 | vless | @rxv2ray | 15",
-                "🇮🇷IR | 🔴 | vless | @rxv2ray | 16",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
+                "❔XX | 🔴 | vless | @rxv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 21",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 22",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -238,13 +238,13 @@
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 129",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 130",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 131",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 21",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 22",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 9",
-                "🇩🇪DE | 🔴 | vless | @vmessorg | 10",
+                "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 1",
+                "🇺🇸US | 🔴 | vless | @vmessorg | 10",
+                "🇩🇪DE | 🔴 | vless | @vmessorg | 11",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 10",
                 "🇫🇮FI | 🔴 | vless | @v2rayngvpn | 21",
@@ -833,7 +833,28 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
+            "type": "vless",
+            "server": "172.66.134.126",
+            "server_port": 80,
+            "uuid": "5459f68e-d914-4b31-93a3-ecdf638b7a5b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram@V2ray_Alpha\/?ed=2560",
+                "headers": {
+                    "Host": "abcd.taraneh.dpdns.org"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 16",
             "type": "vless",
             "server": "Arv.vipmehspd.ir",
             "server_port": 981,
@@ -844,37 +865,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @rxv2ray | 16",
-            "type": "vless",
-            "server": "nv163.momdping.com",
-            "server_port": 443,
-            "uuid": "d99c54fb-2cba-4b0e-b140-beee2fd6ea7b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nv163.momdping.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "nv163.momdping.com"
-                }
             }
         },
         {
@@ -1188,7 +1178,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 130",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 129",
             "type": "vless",
             "server": "104.18.26.90",
             "server_port": 80,
@@ -1209,7 +1199,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 131",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 130",
             "type": "vless",
             "server": "104.18.26.90",
             "server_port": 80,
@@ -1280,7 +1270,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 1",
             "type": "vless",
             "server": "188.114.97.1",
             "server_port": 443,
@@ -1311,7 +1301,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 10",
             "type": "vless",
             "server": "188.114.97.1",
             "server_port": 443,
@@ -1342,7 +1332,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @vmessorg | 10",
+            "tag": "🇩🇪DE | 🔴 | vless | @vmessorg | 11",
             "type": "vless",
             "server": "300232332.webnama.com.tr.privatepack.ir",
             "server_port": 1517,
