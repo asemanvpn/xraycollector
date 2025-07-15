@@ -121,7 +121,7 @@
                 "🇫🇷FR | 🟢 | vless | @prrofile_purple | 117",
                 "🇫🇮FI | 🔴 | vless | @customv2ray | 6",
                 "🇬🇧GB | 🟢 | vless | @customv2ray | 10",
-                "🇺🇸US | 🟢 | vless | @customv2ray | 14",
+                "🇬🇧GB | 🟢 | vless | @customv2ray | 14",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 19",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 20",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 22",
@@ -141,7 +141,7 @@
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 5",
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 6",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 7",
-                "🇺🇸US | 🟢 | vless | @free1_vpn | 8",
+                "🇺🇸US | 🟢 | vless | @free1_vpn | 9",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 11",
                 "🇩🇪DE | 🟢 | vless | @Capoit | 0",
@@ -194,7 +194,7 @@
                 "🇫🇷FR | 🟢 | vless | @prrofile_purple | 117",
                 "🇫🇮FI | 🔴 | vless | @customv2ray | 6",
                 "🇬🇧GB | 🟢 | vless | @customv2ray | 10",
-                "🇺🇸US | 🟢 | vless | @customv2ray | 14",
+                "🇬🇧GB | 🟢 | vless | @customv2ray | 14",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 19",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 20",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 22",
@@ -214,7 +214,7 @@
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 5",
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 6",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 7",
-                "🇺🇸US | 🟢 | vless | @free1_vpn | 8",
+                "🇺🇸US | 🟢 | vless | @free1_vpn | 9",
                 "❔XX | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 11",
                 "🇩🇪DE | 🟢 | vless | @Capoit | 0",
@@ -808,7 +808,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @customv2ray | 14",
+            "tag": "🇬🇧GB | 🟢 | vless | @customv2ray | 14",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
@@ -1416,7 +1416,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @free1_vpn | 8",
+            "tag": "🇺🇸US | 🟢 | vless | @free1_vpn | 9",
             "type": "vless",
             "server": "103.175.79.10",
             "server_port": 443,
