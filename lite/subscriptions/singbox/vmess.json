@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇮🇷IR | 🟢 | vmess | @V2rayNGn | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 16",
+                "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 17",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 162",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 163",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 4",
@@ -124,7 +124,7 @@
             "outbounds": [
                 "🇮🇷IR | 🟢 | vmess | @V2rayNGn | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 16",
+                "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 17",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 162",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 163",
                 "🇩🇪DE | 🟢 | vmess | @SafeNet_Server | 4",
@@ -188,7 +188,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 16",
+            "tag": "🇨🇳CN | 🟢 | vmess | @DeamNet_Proxy | 17",
             "type": "vmess",
             "server": "47.104.186.133",
             "server_port": 50002,
